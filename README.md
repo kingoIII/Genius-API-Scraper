@@ -195,9 +195,9 @@ This is tokeniser-friendly for fine-tuning LLMs or downstream NLP.
 
 ## Licence
 
-MIT © 2025 Your Name
+MIT © 2025 Juan Garnica 
 
 ```
 
-**Copy, commit, push — your repo’s documentation is now complete and navigable.**
+
 ```
